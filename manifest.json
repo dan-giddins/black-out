@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "BlackOut",
   "version": "1.0",
-  "description": "Force a forground text colour of white and a background colour of black.",
+  "description": "Force a forground text colour of off-white and a background colour of off-black.",
 
   "icons": {
     "16": "images/icon-16.png",
